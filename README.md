@@ -35,7 +35,7 @@ Under the hood: Cloudflare (Workers, Pages, DNS, edge rules), Supabase and Postg
 
 ## Kopperss Design, the studio side
 
-The client work grew into a proper studio: [Koppers Design](https://kopperssdesign.com). Same method as FORTE, applied to other people's brands. Every project starts with the same questions: who is this brand, what do they want to portray, and how do they want to interact with their customers? Once I have those answers I design and build the whole thing, front end to back end. I built the studio's own identity too, from the logo system to the landing page, and the site doubles as the portfolio with live, clickable versions of each build.
+The client work grew into a proper studio: [Kopperss Design](https://kopperssdesign.com). Same method as FORTE, applied to other people's brands. Every project starts with the same questions: who is this brand, what do they want to portray, and how do they want to interact with their customers? Once I have those answers I design and build the whole thing, front end to back end. I built the studio's own identity too, from the logo system to the landing page, and the site doubles as the portfolio with live, clickable versions of each build.
 
 Two paid client builds so far:
 
