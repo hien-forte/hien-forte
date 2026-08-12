@@ -33,9 +33,14 @@ flowchart LR
 
 Under the hood: Cloudflare (Workers, Pages, DNS, edge rules), Supabase and Postgres with row-level security and edge functions, Stripe, a telehealth engine, Framer, and a GTM / GA4 / Meta Conversions API tracking pipeline.
 
-## A paid client build, same method
+## Koppers Design, the studio side
 
-[JadeCow Creamery](https://jadecowcreamery.com) hired me to build their website and a custom CRM the same way. The CRM pulls in their point-of-sale data, cleans it up, ties it to their customer list and email signups, and tracks promo codes, campaigns, and what each customer spends. Different world from telehealth, real client, real deadline, and the approach held up.
+The client work grew into a proper studio: [Koppers Design](https://kopperssdesign.com). Same method as FORTE, applied to other people's brands. Every project starts with the same questions: who is this brand, what do they want to portray, and how do they want to interact with their customers? Once I have those answers I design and build the whole thing, front end to back end. I built the studio's own identity too, from the logo system to the landing page, and the site doubles as the portfolio with live, clickable versions of each build.
+
+Two paid client builds so far:
+
+- **[JadeCow Creamery](https://jadecowcreamery.com)** hired me to build their website and a custom CRM. The CRM pulls in their point-of-sale data, cleans it up, ties it to their customer list and email signups, and tracks promo codes, campaigns, and what each customer spends. Different world from telehealth, real client, real deadline, and the approach held up.
+- **[Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/)** is a Portland institution whose site hadn't been touched since 2016. I audited the old site, rebuilt their brand kit from the logo up, and designed a five-page redesign with imagery I generated to match. The [before and after](https://kopperssdesign.com/compare/deliciousdonuts/) says it better than I can.
 
 ## How I work
 
@@ -54,7 +59,8 @@ Full history is on LinkedIn.
 ## Find me
 
 - 🌐 My product: [fortehealth.co](https://fortehealth.co)
-- 🍦 Client build: [jadecowcreamery.com](https://jadecowcreamery.com)
+- 🎨 My studio: [kopperssdesign.com](https://kopperssdesign.com)
+- 🍦 Client builds: [jadecowcreamery.com](https://jadecowcreamery.com) · [Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/)
 - 💼 LinkedIn: [in/hnguyen05](https://www.linkedin.com/in/hnguyen05/)
 - 📫 hien.nguyen.work86@gmail.com
 
