@@ -40,7 +40,7 @@ The client work grew into a proper studio: [Koppers Design](https://kopperssdesi
 Two paid client builds so far:
 
 - **[JadeCow Creamery](https://jadecowcreamery.com)** hired me to build their website and a custom CRM. The CRM pulls in their point-of-sale data, cleans it up, ties it to their customer list and email signups, and tracks promo codes, campaigns, and what each customer spends. Different world from telehealth, real client, real deadline, and the approach held up.
-- **[Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/)** is a Portland institution whose site hadn't been touched since 2016. I audited the old site, rebuilt their brand kit from the logo up, and designed a five-page redesign with imagery I generated to match. The [before and after](https://kopperssdesign.com/compare/deliciousdonuts/) says it better than I can.
+- **[Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/)** is a Portland institution whose site hadn't been touched since 2016. I audited the old site, rebuilt their brand kit from the logo up, and designed a five-page redesign with imagery I generated to match. Then I built them [custom online ordering](https://kopperssdesign.com/deliciousdonuts/order/) that integrates directly with their Clover POS: card checkout with payment processing, promo codes, tips, and their real baker's dozen pricing worked into the cart logic. The [before and after](https://kopperssdesign.com/compare/deliciousdonuts/) says it better than I can.
 
 ## How I work
 
