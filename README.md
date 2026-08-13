@@ -37,12 +37,13 @@ Under the hood: Cloudflare (Workers, Pages, DNS, edge rules), Supabase and Postg
 
 The client work grew into a proper studio: [Kopperss Design](https://kopperssdesign.com). Same method as FORTE, applied to other people's brands. Every project starts with the same questions: who is this brand, what do they want to portray, and how do they want to interact with their customers? Once I have those answers I design and build the whole thing, front end to back end. I built the studio's own identity too, from the logo system to the landing page, and the site doubles as the portfolio with live, clickable versions of each build.
 
-Two paid client builds so far:
+Three client builds so far:
 
 - **[JadeCow Creamery](https://jadecowcreamery.com)** hired me to build their website and a custom CRM. The CRM pulls in their point-of-sale data, cleans it up, ties it to their customer list and email signups, and tracks promo codes, campaigns, and what each customer spends. I then shipped a fully functioning outbound email marketing inside their admin portal: campaigns to the full list or selected members, five branded templates plus a custom template builder, and live DKIM-authenticated sending from their own domain on Cloudflare's email infrastructure. Different world from telehealth, real client, real deadline, and the approach held up.
 - **[Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/)** is a Portland institution whose site hadn't been touched since 2016. I audited the old site, rebuilt their brand kit from the logo up, and designed a five-page redesign with imagery I generated to match. Then I built them a [custom online ordering page](https://kopperssdesign.com/deliciousdonuts/order/) that integrates directly with their Clover POS: card checkout with payment processing, promo codes, tips, and their real baker's dozen pricing worked into the cart logic. The [before and after](https://kopperssdesign.com/compare/deliciousdonuts/) says it better than I can.
+- **[Sap Heng Thai & Laos](https://kopperssdesign.com/sapheng/)** is a locally operated, family owned Thai and Lao food cart in Portland with nothing online but a Facebook page, an Instagram, and a handful of Yelp reviews. I rebuilt their brand from the ground up using what I could pull from those profiles, with direction from the owners along the way: a full brand kit, a logo suite in three lockups, a hand-illustrated website carrying their complete 60-item menu, ad creatives, and a new print-ready menu board, all matched to the exact teal from the one low-res logo they already had.
 
-The thread through all of it: design and engineering are one process for me, not a handoff. The same project that gets the brand kit and the art direction also gets the CRM, the payment processing, or the POS integration, and it ships as one product. Telehealth compliance, ice cream loyalty data, donut shop point of sale. The domain changes, the end-to-end approach doesn't.
+The thread through all of it: design and engineering are one process for me, not a handoff. The same project that gets the brand kit and the art direction also gets the CRM, the payment processing, or the POS integration, and it ships as one product. Telehealth compliance, ice cream loyalty data, donut shop point of sale, food cart branding. The domain changes, the end-to-end approach doesn't.
 
 ## How I work
 
@@ -62,7 +63,7 @@ Full history is on LinkedIn.
 
 - 🌐 My product: [fortehealth.co](https://fortehealth.co)
 - 🎨 My studio: [kopperssdesign.com](https://kopperssdesign.com)
-- 🍦 Client builds: [jadecowcreamery.com](https://jadecowcreamery.com) · [Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/)
+- 🍦 Client builds: [jadecowcreamery.com](https://jadecowcreamery.com) · [Delicious Donuts](https://kopperssdesign.com/deliciousdonuts/) · [Sap Heng Thai & Laos](https://kopperssdesign.com/sapheng/)
 - 💼 LinkedIn: [in/hnguyen05](https://www.linkedin.com/in/hnguyen05/)
 - 📫 hien.nguyen.work86@gmail.com
 
