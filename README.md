@@ -68,4 +68,4 @@ Full history is on LinkedIn.
 - 💼 LinkedIn: [in/hnguyen05](https://www.linkedin.com/in/hnguyen05/)
 - 📫 hien.nguyen.work86@gmail.com
 
-I'm looking for Forward-Deployed Engineer, Solutions Engineering, and technical account management roles, remote in the US.
+I'm looking for Forward-Deployed Engineer, Solutions Engineering, and Technical Account Management roles, remote in the US.
